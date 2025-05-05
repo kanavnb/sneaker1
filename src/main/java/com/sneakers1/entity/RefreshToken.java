@@ -1,4 +1,4 @@
-package com.Sneaker1.entity;
+package com.sneakers1.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
