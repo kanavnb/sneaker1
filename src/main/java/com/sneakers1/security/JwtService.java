@@ -3,6 +3,9 @@ package com.sneakers1.security;
 import com.sneakers1.entity.User;
 import org.springframework.stereotype.Service;
 
+import io.jsonwebtoken.Jwts;
+import io.jsonwebtoken.security.Keys;
+
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
